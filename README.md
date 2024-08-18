@@ -17,7 +17,7 @@
 
 Here's a quick overview of the languages and tools I've worked with:
 
-[![Programming Languages](https://skillicons.dev/icons?i=javascript,typescript,java,python,nextjs,react,nodejs,tailwind,aws,azure,docker,firebase,supabase,vba&theme=light)](https://github.com/aalfonsodev)
+[![Programming Languages](https://skillicons.dev/icons?i=javascript,typescript,java,python,nextjs,react,nodejs,tailwind,aws,azure,docker,firebase,supabase&theme=light)](https://github.com/aalfonsodev)
 
 ## 📊 GitHub Stats
 

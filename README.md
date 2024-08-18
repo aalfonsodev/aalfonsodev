@@ -15,7 +15,7 @@
 
 ## 🛠️ Technologies & Tools
 
-Here's a quick overview of the languages and tools I've worked with:
+Here's a quick overview of a few languages and tools I've worked with:
 
 [![Programming Languages](https://skillicons.dev/icons?i=javascript,typescript,java,python,nextjs,react,nodejs,tailwind,aws,azure,docker,firebase,supabase&theme=light)](https://github.com/aalfonsodev)
 

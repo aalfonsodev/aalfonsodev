@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Andy Alfonso
+# 👋 Hi, I’m Andy
 
 👀 I'm a logical and creative thinker with a passion for learning new languages, frameworks, and technologies. Over the years, I've had the opportunity to work with a variety of programming languages and tools, including:
 

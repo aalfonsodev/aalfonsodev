@@ -5,7 +5,7 @@ I’m a software developer who thrives at the intersection of logic and creativi
 
 ## 🛠️ Technologies & Tools
 ### Frontend:
-![React](https://skillicons.dev/icons?i=react,nextjs,tailwind,css,html)
+![React](https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,tailwind,css,html)
 ### Backend:
 ![Node.js](https://skillicons.dev/icons?i=nodejs,express,java,python)
 ### Cloud & DevOps:

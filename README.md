@@ -3,9 +3,9 @@
 
 I’m a software developer who thrives at the intersection of logic and creativity. With a passion for learning new languages, frameworks, and technologies, I specialize in crafting visually stunning, highly functional applications.
 
-## 🌟 Notable Projects
-- **[FlexDraw](https://github.com/aalfonsodev/FlexDraw):** A markdown editor and collaborative canvas tool, enhancing productivity for creative teams.
-- **[Job Ninja](https://github.com/aalfonsodev/JobNinja):** An AI-powered job application suite for mock interviews, resume building, and tracking.
+## 📈 My Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ## 🛠️ Technologies & Tools
 ### Frontend:
@@ -15,8 +15,14 @@ I’m a software developer who thrives at the intersection of logic and creativi
 ### Cloud & DevOps:
 ![AWS](https://skillicons.dev/icons?i=aws,azure,docker,firebase)
 
+- **JavaScript/TypeScript** (My go-to for most projects)
+- **Java** (Solid for backend systems)
+- **Python** (Great for scripting and data analysis)
+- **VBA** (Yeah, even VBA for some Excel wizardry)
+
+Check out my latest SaaS [Project]([https://alphonsdev.com/](https://www.jobshuriken.com/)).
+
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aalfonsodev&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aalfonsodev&layout=compact&theme=radical)](https://github.com/aalfonsodev/github-readme-stats)
 
 ## 🔗 Connect with Me

@@ -16,7 +16,7 @@ I’m a software developer who thrives at the intersection of logic and creativi
 - **Python** (Great for scripting and data analysis)
 - **VBA** (Yeah, even VBA for some Excel wizardry)
 
-Check out my latest SaaS 🔗 [Project](https://alphonsdev.com/).
+🖥️Check out my latest SaaS 🔗 [Project](https://alphonsdev.com/).
 
 ## 📊 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aalfonsodev&layout=compact&theme=radical)](https://github.com/aalfonsodev/github-readme-stats)

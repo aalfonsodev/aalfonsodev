@@ -3,10 +3,6 @@
 
 I’m a software developer who thrives at the intersection of logic and creativity. With a passion for learning new languages, frameworks, and technologies, I specialize in crafting visually stunning, highly functional applications.
 
-## 📈 My Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 ## 🛠️ Technologies & Tools
 ### Frontend:
 ![React](https://skillicons.dev/icons?i=react,nextjs,tailwind,css,html)
@@ -20,7 +16,7 @@ I’m a software developer who thrives at the intersection of logic and creativi
 - **Python** (Great for scripting and data analysis)
 - **VBA** (Yeah, even VBA for some Excel wizardry)
 
-Check out my latest SaaS [Project]([[https://alphonsdev.com/](https://www.jobshuriken.com/)](https://www.jobshuriken.com/)).
+Check out my latest SaaS 🔗 [Project](https://alphonsdev.com/).
 
 ## 📊 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aalfonsodev&layout=compact&theme=radical)](https://github.com/aalfonsodev/github-readme-stats)

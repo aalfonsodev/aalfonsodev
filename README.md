@@ -23,7 +23,7 @@ Check out my latest SaaS 🔗 [Project](https://alphonsdev.com/).
 
 ## 🔗 Connect with Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=web)](https://alphonsdev.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aalfonsodev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andy-alfonso-developer/)
 
 
 

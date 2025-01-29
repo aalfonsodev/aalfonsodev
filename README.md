@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Andy
-### Full-Stack Developer | Passionate Problem Solver | Lifelong Learner
+### Full-Stack Developer 
 
 I’m a software developer who thrives at the intersection of logic and creativity. With a passion for learning new languages, frameworks, and technologies, I specialize in crafting visually stunning, highly functional applications.
 
